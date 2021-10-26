@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Quantspirit
-- 👀 I’m interested in worklife, and simulation of organizational efficiency
+- 👀 I’m interested in complexity, intelligence, worklife, and simulation of organizational efficiency
 - 🌱 I’m currently learning...this...
-- 💞️ I’m looking to collaborate on organizational methodology...
+- 💞️ I’m looking to collaborate on CAS, future competencies, and organizational methodology...
 - 📫 How to reach me: at work
 
 <!---
